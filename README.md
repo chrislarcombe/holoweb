@@ -1,2 +1,2 @@
-# holoweb
-All Holoweb code and documentation moved to github.com/holoweb
+# Holoweb
+All Holoweb code and documentation moved to https://github.com/holoweb
